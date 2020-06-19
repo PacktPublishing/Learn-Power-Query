@@ -1,0 +1,516 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "width" : 1916.0,
+  "height" : 1040.0,
+  "version" : "2.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "18.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\Sparrow\\Documents\\Camtasia\\Rec 03-15-20.avi",
+      "rect" : [0, 0, 1916, 1040],
+      "lastMod" : "20200315T134949",
+      "sourceTracks" : [
+        {
+          "range" : [0, 775333334],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1916, 1040],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 2,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 72.5,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 3,
+                    "_type" : "VMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 03-15-20"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 2.27018404075352e-10,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -3.39355210599024e-11,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 4,
+                    "_type" : "VMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 03-15-20"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 2.27018404075352e-10,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 305,
+                            "time" : 275,
+                            "value" : 1474.86964366241,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 707,
+                            "time" : 677,
+                            "value" : 395.755347779798,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 827,
+                            "time" : 797,
+                            "value" : 20.5552919546032,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1311,
+                            "time" : 1281,
+                            "value" : 253.32625659279,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1649,
+                            "time" : 1619,
+                            "value" : 1248.02676632012,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1892,
+                            "time" : 1862,
+                            "value" : 1.11320730411535e-10,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 2145,
+                            "time" : 2115,
+                            "value" : -286.466471546217,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -3.39355210599024e-11,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 305,
+                            "time" : 275,
+                            "value" : -800.555605999833,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 707,
+                            "time" : 677,
+                            "value" : -214.815004500033,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 827,
+                            "time" : 797,
+                            "value" : -55.2931670772744,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1311,
+                            "time" : 1281,
+                            "value" : -137.505033738239,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1649,
+                            "time" : 1619,
+                            "value" : -677.426202885686,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1892,
+                            "time" : 1862,
+                            "value" : -233.287717701445,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 2145,
+                            "time" : 2115,
+                            "value" : -8.03533080122992,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 305,
+                            "time" : 275,
+                            "value" : 2.53952968375345,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 707,
+                            "time" : 677,
+                            "value" : 1.41310567912178,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 827,
+                            "time" : 797,
+                            "value" : 1.94738104875742,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1311,
+                            "time" : 1281,
+                            "value" : 1.26443244107751,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1649,
+                            "time" : 1619,
+                            "value" : 2.30274194052453,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1892,
+                            "time" : 1862,
+                            "value" : 1.8531715709389,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 2145,
+                            "time" : 2115,
+                            "value" : 1.29902578750611,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 305,
+                            "time" : 275,
+                            "value" : 2.53953000918266,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 707,
+                            "time" : 677,
+                            "value" : 1.41310577894473,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 827,
+                            "time" : 797,
+                            "value" : 1.94738144882027,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1311,
+                            "time" : 1281,
+                            "value" : 1.26443275490912,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1649,
+                            "time" : 1619,
+                            "value" : 2.30274268808208,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 1892,
+                            "time" : 1862,
+                            "value" : 1.85317241930816,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 2145,
+                            "time" : 2115,
+                            "value" : 1.29902627624399,
+                            "duration" : 30
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1,
+                    "duration" : 2174,
+                    "mediaStart" : 115,
+                    "mediaDuration" : 2174,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 305,
+                          "duration" : 30,
+                          "range" : [ 275, 30]
+                        },
+                        {
+                          "endTime" : 707,
+                          "duration" : 30,
+                          "range" : [ 677, 30]
+                        },
+                        {
+                          "endTime" : 827,
+                          "duration" : 30,
+                          "range" : [ 797, 30]
+                        },
+                        {
+                          "endTime" : 1311,
+                          "duration" : 30,
+                          "range" : [ 1281, 30]
+                        },
+                        {
+                          "endTime" : 1649,
+                          "duration" : 30,
+                          "range" : [ 1619, 30]
+                        },
+                        {
+                          "endTime" : 1892,
+                          "duration" : 30,
+                          "range" : [ 1862, 30]
+                        },
+                        {
+                          "endTime" : 2145,
+                          "duration" : 30,
+                          "range" : [ 2115, 30]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 5,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 145.652173913075,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -73.9130434783829,
+                      "tail-y" : -22.1739130434623,
+                      "width" : 497.826086956766,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "stroke-style" : "solid",
+                      "text" : "Press Ctrl + t",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontSize","rangeEnd":14,"rangeStart":0,"value":64,"valueType":"double"},{"name":"fontWeight","rangeEnd":14,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":14,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":14,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":14,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"underline","rangeEnd":14,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":14,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 248.913043478766,
+                      "translation1" : -202.173913043615
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        }
+                    ],
+                    "start" : 31,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : "[{\"name\":\"fontWeight\",\"rangeEnd\":3,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"fgColor\",\"rangeEnd\":3,\"rangeStart\":0,\"value\":\"(47,59,68,255)\",\"valueType\":\"color\"},{\"name\":\"fontSize\",\"rangeEnd\":3,\"rangeStart\":0,\"value\":64,\"valueType\":\"double\"},{\"name\":\"fontName\",\"rangeEnd\":3,\"rangeStart\":0,\"value\":\"Montserrat\",\"valueType\":\"string\"},{\"name\":\"underline\",\"rangeEnd\":3,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"}]",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 61,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 23,
+    "Date" : "2020-03-15 01:43:19 PM",
+    "Fit" : 0,
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "If Statement",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
