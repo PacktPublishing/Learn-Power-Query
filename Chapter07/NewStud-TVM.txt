@@ -1,0 +1,95 @@
+Code	Surname	House Type
+MIL04	Bally	Milnerton
+MIL14	Ambrose	Milnerton
+TBV26	Halal	Table View
+SUN59	Hume	Sunningdale
+TBV58	Abel	Table View
+SUN07	Culbert	Sunningdale
+MIL25	Swayne	Milnerton
+SUN45	DeVinney	Sunningdale
+SUN47	Murray	Sunningdale
+MIL29	Kling	Milnerton
+SUN09	Willis	Sunningdale
+TBV76	Rose	Table View
+SUN05	Chen	Sunningdale
+PKL55	BinMIL	Parklands
+TBV19	TBVlifano	Table View
+SUN11	Rich	Sunningdale
+TBV18	Gorski	Table View
+SUN57	Hoffman	Sunningdale
+PKL49	Kramer	Parklands
+MIL18	Hill	Milnerton
+SUN19	Smith	Sunningdale
+PKL03	Banks	Parklands
+MIL04	Strong	Milnerton
+PKL07	MPKLFall	Parklands
+MIL49	Kim	Milnerton
+TBV80	Ness	Table View
+MIL15	Hinkelman	Milnerton
+SUN08	Cuffaro	Sunningdale
+TBV15	Reese	Table View
+PKL09	Parker	Parklands
+SUN34	Drake	Sunningdale
+SUN29	Abel	Sunningdale
+SUN77	ReaMILn	Sunningdale
+MIL40	Smith	Milnerton
+MIL32	Barber	Milnerton
+PKL24	Allen	Parklands
+MIL12	Altman	Milnerton
+TBV06	Mallory	Table View
+SUN65	Steadman	Sunningdale
+SUN49	Connors	Sunningdale
+SUN29	Mayron	Sunningdale
+MIL07	Simpson	Milnerton
+SUN28	Richardson	Sunningdale
+PKL35	Bowers	Parklands
+SUN16	Earnhart	Sunningdale
+SUN64	Davies	Sunningdale
+TBV23	Davidson	Table View
+TBV40	Briscoll	Table View
+MIL37	Feldsott	Milnerton
+PKL29	Singer	Parklands
+SUN14	Tucker	Sunningdale
+MIL20	Paterson	Milnerton
+SUN21	Hillen	Sunningdale
+SUN09	Mazza	Sunningdale
+TBV30	Snyder	Table View
+PKL69	MaTBValuso	Parklands
+SUN05	Wheeler	Sunningdale
+SUN69	MPKLters	Sunningdale
+MIL30	Abel	Milnerton
+PKL27	Trelly	Parklands
+SUN24	Lillie	Sunningdale
+PKL58	Lewis	Parklands
+MIL08	McDonald	Milnerton
+PKL17	Simmons	Parklands
+PKL25	Winger	Parklands
+TBV03	Reed	Table View
+MIL23	Robinson	Milnerton
+SUN66	Abel	Sunningdale
+TBV45	Dandrow	Table View
+MIL54	Smith	Milnerton
+MIL26	Switzer	Milnerton
+MIL27	JPKLobs	Milnerton
+SUN12	Howard	Sunningdale
+PKL02	BinMIL	Parklands
+MIL07	Taylor	Milnerton
+MIL47	Barthoff	Milnerton
+PKL39	Williams	Parklands
+TBV79	Miller	Table View
+PKL23	TBVlvin	Parklands
+MIL11	Petty	Milnerton
+PKL12	Sloan	Parklands
+MIL24	Gibbs	Milnerton
+PKL04	Sullivan	Parklands
+SUN33	Hayes	Sunningdale
+MIL57	Stewart	Milnerton
+TBV32	Smith	Table View
+SUN23	Winters	Sunningdale
+MIL02	Martin	Milnerton
+SUN48	Brown	Sunningdale
+PKL48	Owens	Parklands
+PKL53	ThomPKL	Parklands
+MIL09	Whitney	Milnerton
+PKL70	BinMIL	Parklands
+PKL59	Tooley	Parklands

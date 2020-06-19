@@ -1,0 +1,47 @@
+ID,FIRST,SURNAME,EMP NO,DIVISION,DEPT,DATE of HIRE,HRS,HOURLY RATE,GROSS PAY
+78,George,Feldsott,MIL37,Munerton,Mankay Falls,03-Dec-87,36,£12.50,£443.75
+79,Mary,Barber,MIL32,Munerton,Mankay Falls,25-Nov-87,36,£12.50,£443.75
+80,Karina,Abel,MIL30,Munerton,Mankay Falls,12-Jan-87,42,£16.75,£703.50
+81,Sara,Kling,MIL29,Munerton,Mankay Falls,24-Dec-86,36,£12.50,£443.75
+82,TBVrol,Hill,MIL18,Munerton,Mankay Falls,21-Jul-86,36,£12.50,£443.75
+83,Brad,Hinkelman,MIL15,Munerton,Mankay Falls,08-Nov-85,40,£19.50,£780.00
+84,Bob,Ambrose,MIL14,Munerton,Mankay Falls,25-Jan-85,36,£12.50,£443.75
+85,Jeffrey,Strong,MIL04,Munerton,Mankay Falls,08-Mar-81,40,£19.50,£780.00
+86,Kim,Smith,MIL54,Munerton,Shewe,27-Nov-89,42,£24.00,£1 008.00
+87,Brian,Smith,MIL40,Munerton,Shewe,05-Nov-88,40,£19.50,£780.00
+88,Sam,Whitney,MIL09,Munerton,Shewe,28-Nov-83,40,£7.22,£288.80
+89,Bill,Simpson,MIL07,Munerton,Shewe,12-Jan-82,40,£19.50,£780.00
+90,Helen,Stewart,MIL57,Munerton,Slangsgrow,03-May-90,42,£15.50,£651.00
+91,Sung,Kim,MIL49,Munerton,Slangsgrow,15-Nov-89,40,£15.50,£620.00
+92,Paula,Robinson,MIL23,Munerton,Slangsgrow,07-Dec-87,30,£6.50,£191.75
+93,John,JPKLobs,MIL27,Munerton,Slangsgrow,04-Oct-86,40,£6.50,£260.00
+94,Jerry,McDonald,MIL08,Munerton,Slangsgrow,07-Jul-82,40,£15.50,£620.00
+95,Theodore,Ness,TBV80,View Tabue,Slangsgrow,04-Aug-91,32,£5.50,£176.00
+96,Cheryl,Halal,TBV26,View Tabue,Slangsgrow,01-Feb-90,36,£13.30,£472.15
+97,Doug,Briscoll,TBV40,View Tabue,Slangsgrow,26-May-87,38,£15.50,£589.00
+98,George,Gorski,TBV18,View Tabue,Slangsgrow,07-May-85,40,£22.00,£880.00
+99,Fred,Mallory,TBV06,View Tabue,Slangsgrow,17-Jun-83,38,£15.50,£589.00
+100,James,Abel,SUN29,Soningdale,Cobrella,05-Feb-91,35,£12.10,£423.50
+101,Molly,Steadman,SUN65,Soningdale,Cobrella,15-Aug-89,40,£22.00,£880.00
+102,Lance,Davies,SUN64,Soningdale,Cobrella,30-Dec-88,32,£5.50,£176.00
+103,Greg,Connors,SUN49,Soningdale,Cobrella,04-Nov-87,38,£15.50,£589.00
+104,James,Rich,SUN11,Soningdale,Cobrella,11-Oct-86,36,£13.30,£472.15
+105,Dominick,Mazza,SUN09,Soningdale,Cobrella,10-Oct-86,40,£21.50,£860.00
+106,Shing,Chen,SUN05,Soningdale,Cobrella,08-Aug-84,36,£13.30,£472.15
+107,Robert,Cuffaro,SUN08,Soningdale,Cobrella,18-Sep-83,40,£12.60,£504.00
+108,Frank,Culbert,SUN07,Soningdale,Cobrella,12-Jun-83,40,£12.60,£504.00
+109,Laura,ReaMILn,SUN77,Soningdale,Mankay Falls,12-Aug-90,35,£24.00,£840.00
+110,William,Abel,SUN66,Soningdale,Mankay Falls,14-Oct-89,40,£15.50,£620.00
+111,Robert,Murray,SUN47,Soningdale,Mankay Falls,10-Jun-87,40,£12.60,£504.00
+112,Sean,Willis,SUN09,Soningdale,Mankay Falls,05-Jul-85,36,£13.30,£472.15
+113,Bradley,Howard,SUN12,Soningdale,Mankay Falls,14-Feb-84,40,£7.22,£288.80
+114,Bill,Wheeler,SUN05,Soningdale,Mankay Falls,14-Aug-81,38,£15.50,£589.00
+115,Todd,MPKLters,SUN69,Soningdale,Shewe,23-Nov-89,40,£12.60,£504.00
+116,Chris,Hume,SUN59,Soningdale,Shewe,12-May-88,40,£7.22,£288.80
+117,Paul,Hoffman,SUN57,Soningdale,Shewe,19-Dec-87,40,£22.00,£880.00
+118,Kristen,DeVinney,SUN45,Soningdale,Shewe,05-Jun-87,35,£24.00,£840.00
+119,Kyle,Earnhart,SUN16,Soningdale,Shewe,08-Oct-84,40,£22.00,£880.00
+120,Susan,Drake,SUN34,Soningdale,Slangsgrow,13-Dec-89,25,£8.52,£213.00
+121,Jane,Winters,SUN23,Soningdale,Slangsgrow,07-Nov-89,35,£12.60,£441.00
+122,Geoff,Brown,SUN48,Soningdale,Slangsgrow,01-Jul-87,40,£6.50,£260.00
+123,Christina,Lillie,SUN24,Soningdale,Slangsgrow,29-May-87,25,£8.52,£213.00
